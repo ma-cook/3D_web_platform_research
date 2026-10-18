@@ -152,7 +152,7 @@ The experience of representing complex systems as three-dimensional networks of 
 
 No adequate digital tool for externalising these representations currently exists. The barriers that have historically prevented such a tool from succeeding, including screen-based interaction costs, non-3D-fluent research populations, and the invisibility of the externalisation use case, are eroding. The population of spatially-fluent users is growing, the complexity of systems demanding representation is increasing, and the hardware for genuine 3D interaction is available.
 
-Hopper's challenge, "you're going to have to get out of the plain of the paper," remains unmet forty-three years later. What remains is the will to build for the minority who think in three dimensions, recognising that this minority includes a disproportionate share of the people who design and reason about the systems on which modern life depends.
+Hopper's challenge, "you're going to have to get out of the plain of the paper," was revolutionary to me. School taught me to document information in 2D, I found it frustrating, I knew there had to be better way, but I followed convention. Grace Hopper's description of systems represented in 3D matched exactly what I mentally visualise, it made realise that I am not alone in thinking this way.
 
 ---
 
