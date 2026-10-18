@@ -2,7 +2,7 @@
 
 ## Abstract
 
-This paper examines the cognitive basis for three-dimensional (3D) mental representations of complex systems, with particular reference to software engineering and systems thinking. Drawing on research in spatial cognition, mental imagery, diagrammatic reasoning, and individual differences in cognitive style, we argue that a significant population of systems thinkers, particularly software engineers, naturally represent abstract relational structures as 3D spatial networks of connected nodes. We further argue that no adequate tool exists to externalise these representations, despite the need being identified as early as 1982 by computing pioneer Rear Admiral Grace Hopper. We assess the barriers to adoption of 3D diagram tools and argue that the primary obstacles are historical and cultural rather than fundamental cognitive ones, and that generational shifts in 3D navigation fluency may make such tools viable now in a way they were not previously.
+This paper examines the cognitive basis for three-dimensional (3D) mental representations of complex systems, with particular reference to software engineering and systems thinking. Drawing on research in spatial cognition, mental imagery, diagrammatic reasoning, and individual differences in cognitive style, I argue that a significant population of systems thinkers, particularly software engineers, naturally represent abstract relational structures as 3D spatial networks of connected nodes. I further argue that no adequate tool exists to externalise these representations, despite the need being identified as early as 1982 by computing pioneer Rear Admiral Grace Hopper. I assess the barriers to adoption of 3D diagram tools and argue that the primary obstacles are historical and cultural rather than fundamental cognitive ones, and that generational shifts in 3D navigation fluency may make such tools viable now in a way they were not previously.
 
 ---
 
@@ -10,7 +10,7 @@ This paper examines the cognitive basis for three-dimensional (3D) mental repres
 
 When people think about complex systems, whether software architectures, organisational structures, or causal networks, what form do those thoughts take? The question is less settled than it might appear. A substantial body of research in cognitive science suggests that the mind does not simply process abstract relational information linguistically or propositionally, but often represents it in a spatial format: an internal structure of entities and connections that can be navigated, rotated, and manipulated in mental space.
 
-This paper explores a specific and underexamined variant of this phenomenon: people who report experiencing these mental representations as three-dimensional networks of connected shapes, essentially node-link diagrams occupying imagined 3D space. We argue that this experience is:
+This paper explores a specific and underexamined variant of this phenomenon: people who report experiencing these mental representations as three-dimensional networks of connected shapes, essentially node-link diagrams occupying imagined 3D space. I argue that this experience is:
 
 1. Cognitively well-grounded and supported by neuroscience
 2. Particularly common among software engineers and systems thinkers
