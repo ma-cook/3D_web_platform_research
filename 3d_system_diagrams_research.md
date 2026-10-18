@@ -2,7 +2,9 @@
 
 ## Abstract
 
-This paper examines the cognitive basis for three-dimensional (3D) mental representations of complex systems, with particular reference to software engineering and systems thinking. Drawing on research in spatial cognition, mental imagery, diagrammatic reasoning, and individual differences in cognitive style, I argue that a significant population of systems thinkers, particularly software engineers, naturally represent abstract relational structures as 3D spatial networks of connected nodes. I further argue that no adequate tool exists to externalise these representations, despite the need being identified as early as 1982 by computing pioneer Rear Admiral Grace Hopper. I assess the barriers to adoption of 3D diagram tools and argue that the primary obstacles are historical and cultural rather than fundamental cognitive ones, and that generational shifts in 3D navigation fluency may make such tools viable now in a way they were not previously.
+This paper examines the cognitive basis for three-dimensional (3D) mental representations of complex systems, with particular reference to software engineering and systems thinking. Drawing on research in spatial cognition, mental imagery, diagrammatic reasoning, and individual differences in cognitive style, I argue that a growing population of systems thinkers, particularly software engineers, naturally represent abstract relational structures as 3D spatial networks of connected nodes. I further argue that no adequate tool exists to externalise these representations, despite the need being identified as early as 1982 by computing pioneer Rear Admiral Grace Hopper. I assess the barriers to adoption of 3D diagram tools and argue that the primary obstacles are historical and cultural rather than fundamental cognitive ones, and that generational shifts in 3D navigation fluency may make such tools viable now in a way they were not previously.
+
+As a personal example, the processing of information in my brain forms 3D diagrams naturally. Throughout my education and career I have had to translate those 3D visualisations to 2D representations, inevitably context gets lost in translation. What frustrates me is that a degree of separation can be difficult to represent in 2D when data nodes are at the same hierarchy level, often a separate 2D diagram is necessary in such case. This is not the case with 3D diagrams.
 
 ---
 
@@ -150,7 +152,7 @@ The experience of representing complex systems as three-dimensional networks of 
 
 No adequate digital tool for externalising these representations currently exists. The barriers that have historically prevented such a tool from succeeding, including screen-based interaction costs, non-3D-fluent research populations, and the invisibility of the externalisation use case, are eroding. The population of spatially-fluent users is growing, the complexity of systems demanding representation is increasing, and the hardware for genuine 3D interaction is available.
 
-Hopper's challenge, "you're going to have to get out of the plain of the paper," remains unmet forty-three years later. The cognitive science says the need is real. The engineering says the tools are available. What remains is the will to build for the minority who think in three dimensions, recognising that this minority includes a disproportionate share of the people who design and reason about the systems on which modern life depends.
+Hopper's challenge, "you're going to have to get out of the plain of the paper," remains unmet forty-three years later. What remains is the will to build for the minority who think in three dimensions, recognising that this minority includes a disproportionate share of the people who design and reason about the systems on which modern life depends.
 
 ---
 
